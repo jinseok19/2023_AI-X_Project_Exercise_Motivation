@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+
+  <title>Document</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #056CF2;
+      display: flex;
+      height: 100vh;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+    }
+
+    .main_logo {
+      height: 50%;
+      object-fit: cover;
+    }
+
+    .main_logo:hover,
+    .main_title:hover {
+      transform: rotate(10deg);
+    }
+
+    .wrap_main_btn {
+      margin-top: 50px;
+      width: 50%;
+      display: flex;
+      justify-content: space-around;
+    }
+
+    .mainBtn {
+      cursor: pointer;
+      border: white 2px solid;
+      background-color: transparent;
+      font-family: 'Jua', sans-serif;
+      padding: 2px 20px;
+      border-radius: 5px;
+      font-size: 30px;
+      color: white;
+    }
+
+    .main_title {
+      font-family: 'Jua', sans-serif;
+      font-size: 75px;
+      color: white;
+      margin-bottom: 10px;
+    }
+
+    .item {
+      position: absolute;
+      width: 100px;
+      object-fit: contain;
+    }
+
+
+    #item1 {
+      top: 1%;
+      right: 20%;
+      transform: rotate(-50deg);
+    }
+
+    #item2 {
+      top: 50%;
+      left: 10%;
+      transform: rotate(200deg);
+    }
+
+    #item3 {
+      bottom: 1%;
+      right: 30%;
+      transform: rotate(120deg);
+    }
+
+    #item1:hover,
+    #item2:hover,
+    #item3:hover {
+      transform: rotate(10deg);
+
+    }
+  </style>
+</head>
+
+<body>
+  <div class="main_title">MotivFit</div>
+  <img class="main_logo" src="../images/logo.png" alt="">
+  <div class="wrap_main_btn">
+    <button id="loginBtn" class="mainBtn">LOGIN</button>
+    <button id="signupBtn" class="mainBtn">SIGNUP</button>
+  </div>
+  <img src="../images/logo.png" alt="" class="item" id="item1">
+  <img src="../images/logo.png" alt="" class="item" id="item2">
+  <img src="../images/logo.png" alt="" class="item" id="item3">
+</body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="../js/main.js"></script>
+
+</html>

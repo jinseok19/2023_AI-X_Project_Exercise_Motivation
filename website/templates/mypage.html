@@ -1,0 +1,104 @@
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8' />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+
+  <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.7/index.global.min.js'></script>
+  <title>Document</title>
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+      font-size: 14px;
+    }
+
+    #calendar {
+      max-width: 1100px;
+      margin: 40px auto;
+    }
+
+    nav {
+      background-color: #056CF2;
+      color: white;
+      min-height: 120px;
+      height: fit-content;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px 0px;
+      position: relative;
+    }
+
+    .nav_btn {
+      position: absolute;
+      cursor: pointer;
+      border: white 2px solid;
+      color: white;
+      background-color: transparent;
+      font-family: 'Jua', sans-serif;
+      padding: 2px 20px;
+      border-radius: 5px;
+      font-size: 20px;
+    }
+
+    .wrap_logo {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      font-family: 'Jua', sans-serif;
+      font-size: 75px;
+      border: none;
+      background-color: transparent;
+      color: white;
+      cursor: pointer;
+    }
+
+    .nav_logo {
+      height: 150px;
+      object-fit: contain;
+      padding-right: 10px;
+    }
+
+    .middle_section {
+      display: flex;
+      padding: 0px 20px;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    #archiveBtn {
+      cursor: pointer;
+      height: 30px;
+      border: #056CF2 3px solid;
+      background-color: transparent;
+      font-family: 'Jua', sans-serif;
+      padding: 0px 20px;
+      border-radius: 5px;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <nav>
+    <button class="wrap_logo">
+      <img class="nav_logo" src="../images/logo.png" alt="">
+      <div class="nav_logo_title">MotivFit</div>
+    </button>
+  </nav>
+  <section class="middle_section">
+    <h1>Sam's page</h1>
+    <button id="archiveBtn">VIEW ARCHIVE</button>
+  </section>
+  <div id='calendar'></div>
+</body>
+<script src="../js/mypage.js"></script>
+
+</html>
