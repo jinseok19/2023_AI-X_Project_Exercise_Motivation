@@ -1,8 +1,8 @@
 # Intermediate_Level_Project_for_AI-X
 🤖AI+X 선도 인재 양성 중급 프로젝트 with KT & 상명대학교🤖
 
-# Project
-🔥Exercise_Motivation_chatbot🔥
+# Project : 🔥Exercise_Motivation_chatbot🔥
+
 
 # Summary
 
