@@ -36,6 +36,9 @@
 
 # 🎯 Grade : A+
 
+# 🥇Award : 2023년 생성형 지능모델 활용 사례 공모전
+![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/f078fb11-42dd-4de3-bd55-af4b6b04260d)
+
 # Conclusion
 
 이번 학기에 수강한 AI+X 선도 인재 양성 기초 프로젝트 수업은 한 번도 경험하지 못했던 수업 방식이어서 처음에는 많이 어려웠다. 하지만 주차가 지남에 따라 수업 방법이 아주 잘 맞았던 것 같다.
