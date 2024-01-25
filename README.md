@@ -19,7 +19,8 @@
   ✅ SM_AI_X_competition
 
 # Schedule
-![image](https://github.com/jinseok19/Basic_Level_Project_for_AI-X/assets/121952875/8bebee2c-168d-4c89-b1cc-cc8e812078a0)
+![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/b8942d53-f952-4f66-ae23-caedcaaa22e3)
+
 
 # The Final Result
 
