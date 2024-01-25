@@ -37,7 +37,8 @@
 # 🎯 Grade : A+
 
 # 🥇Award : 2023년 생성형 지능모델 활용 사례 공모전
-![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/f078fb11-42dd-4de3-bd55-af4b6b04260d)
+![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/e93fa1f9-b711-41da-9809-c8eb1bf4b159)
+
 
 # Conclusion
 
