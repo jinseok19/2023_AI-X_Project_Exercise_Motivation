@@ -13,10 +13,9 @@
 
 # Task List
 
-  ✅ Bus_Exploratory Data Analysis<br/>
-  ✅ Subway_Exploratory Data Analysis<br/>
-  ✅ Time_Series_Data<br/>
-  ✅ SM_AI_X_competition
+  ✅ Module<br/>
+  ✅ Web<br/>
+  
 
 # Schedule
 ![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/b8942d53-f952-4f66-ae23-caedcaaa22e3)
