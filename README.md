@@ -18,6 +18,8 @@
 
   ✅ Module<br/>
   ✅ Web<br/>
+  ✅ Thesis<br/>
+  ✅ Patent<br/>
   
 
 # Schedule
