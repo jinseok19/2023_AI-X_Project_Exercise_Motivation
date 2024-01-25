@@ -1,6 +1,9 @@
 # Intermediate_Level_Project_for_AI-X
 🤖AI+X 선도 인재 양성 중급 프로젝트 with KT & 상명대학교🤖
 
+# Project
+🔥Exercise_Motivation_chatbot🔥
+
 # Summary
 
   - 기초 수업을 통해 함양한 AI 이론 및 프로젝트 수행 능력을 바탕으로 일상에서 유용한 경험을 제공해줄 수 있는 서비스를 위한 AI 개발을 목표로 함
