@@ -27,6 +27,7 @@
 # Interim Presentation Result
 ![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/4a8beddc-33f4-4a23-b45c-97b56c2cfed1)
 # The Final Presentation Result
+![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/e8039356-0286-4758-a30a-20f42361f504)
 
 # 🎯 Grade : A+
 
