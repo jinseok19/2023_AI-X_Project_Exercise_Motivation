@@ -20,6 +20,7 @@
 
 # Schedule
 ![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/b8942d53-f952-4f66-ae23-caedcaaa22e3)
+![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/6d202694-6eba-42c8-b149-578b0f79d28d)
 
 
 # The Final Result
