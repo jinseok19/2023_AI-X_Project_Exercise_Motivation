@@ -26,6 +26,16 @@
 ![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/b8942d53-f952-4f66-ae23-caedcaaa22e3)
 ![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/6d202694-6eba-42c8-b149-578b0f79d28d)
 
+# The Results Of An Interim Presentation
+![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/0965afb5-60bd-4463-b257-01bfa1659891)
+
+# The Results Of The Final Presentation
+![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/91ee81ca-0f82-4591-93fa-8e3b88dd4d56)
+
+# Final Result
+![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/25137d33-201a-4d13-98a3-770075c6bb9f)
+
+
 # 🎯 Grade : A+
 
 # 🥇Award : 2023년 생성형 지능모델 활용 사례 공모전
@@ -35,7 +45,7 @@
 
 # Conclusion
 
-이번 학기에 수강한 AI+X 선도 인재 양성 기초 프로젝트 수업은 한 번도 경험하지 못했던 수업 방식이어서 처음에는 많이 어려웠다. 하지만 주차가 지남에 따라 수업 방법이 아주 잘 맞았던 것 같다.
+이번 학기에 수강한 AI+X 선도 인재 양성 중급 프로젝트 수업은 한 번도 경험하지 못했던 수업 방식이어서 처음에는 많이 어려웠다. 하지만 주차가 지남에 따라 수업 방법이 아주 잘 맞았던 것 같다.
 
 교수님이 내주시는 과제를 구글이나 책을 찾아보며 해결하고 자신만의 아이디어를 접목하여 새로운 해결책과 인사이트를 찾는 과정이 정말 재미있었다. 매주 내주시는 과제에 대하여 문제를 해결하고 팀별로 해결책 및 자신이 새운 가설에 대한 내용을 발표를 진행하였다. 발표를 준비하기까지는 매우 시간이 없었지만, 다른 팀의 해결책이나 가설을 들으면서 새로운 아이디어를 얻을 수 있는 시간을 가질 수 있어서 도움이 되었다.
 
