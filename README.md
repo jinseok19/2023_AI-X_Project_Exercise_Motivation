@@ -51,7 +51,8 @@
 
 # 🥇Award
 ## 2023년 생성형 지능모델 활용 사례 공모전
-![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/1ba2fc0b-76e2-4c38-a138-14324c2fa1ad)
+![교내 상장](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/37865010-cd1b-4118-9148-d4ea7e0e51b8)
+
 
 
 
