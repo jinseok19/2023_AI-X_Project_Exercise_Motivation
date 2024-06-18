@@ -32,7 +32,7 @@ def During_tts(text, situation):
     else:
         tts.save('Progress/P_2_{0}.mp3.'.format(text))
 
-#Before
+#Before Ex
 #/1 / Input : I don’t want to workout now!
 #/2 / Input : I don't think it's okay not to go to the gym today.
 # Before_tts('Just start with one exercise, and I promise you’ll feel more energized and motivated to continue.', 1)
@@ -47,7 +47,7 @@ def During_tts(text, situation):
 # Before_tts("Just remember, every workout brings you one step closer to being the best version of yourself. Don't skip it and keep pushing!",2)
 # Before_tts("Just remember that every little bit counts. Even if you can't make it to the gym, there are still other ways to stay active and lead a healthy lifestyle.",2)
 
-#During
+#During Ex
 #/1 / Input : Please make me motivative to reach my goals.
 #/2 / Input : I want to stop now and go home.
 '''
