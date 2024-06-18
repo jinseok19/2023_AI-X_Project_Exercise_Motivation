@@ -43,7 +43,7 @@ function buttonEvt() {
   startMent()
 
 
-
+//start
   // start btn
   $("#goStopBtn").click(function () {
     if (state) {
