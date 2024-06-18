@@ -31,7 +31,39 @@
   ✅ Patent<br/>
   ✅ Award<br/>
   
-  
+  ___
+### Files
+```bash
+├── module
+│   ├── TTS_MODULE
+│   │    ├── After_tts(운동 후 동기부여 대사)
+│   │    ├── Before_tts(운동 전 동기부여 대사)
+│   │    ├── Progress_tts(운동 중 동기부여 대사)
+│   │    └── TTS_Create.py(TTS 생성 파일)
+│   ├── DZM.ipynb
+│   ├── DZM_chatbot.ipynb
+│   ├── DZM_chatbot_v02.ipynb
+│   └── module_all.ipynb
+└── website
+   ├── audios (differential dropout modules)
+   │   ├── Before
+   │   └── Progress   
+   ├── images
+   ├── js
+   │   ├── home.js
+   │   ├── login.js
+   │   ├── main.js
+   │   ├── mypage.js
+   │   └── signup.js
+   └── templates
+       ├── chatbot.html
+       ├── home.html
+       ├── login.html
+       ├── main.html
+       ├── mypage.html
+       └── signup.html
+
+```
 
 # Schedule
 ![image](https://github.com/jinseok19/Intermediate_Level_Project_for_AI-X/assets/121952875/b8942d53-f952-4f66-ae23-caedcaaa22e3)
