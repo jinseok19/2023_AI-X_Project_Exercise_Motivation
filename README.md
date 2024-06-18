@@ -4,15 +4,40 @@
 # Project : 🔥Exercise_Motivation_chatbot🔥
 
 
-# Summary
+___
+### Files
+```bash
+├── module
+│   ├── TTS_MODULE
+│   │    ├── After_tts
+│   │    ├── Before_tts
+│   │    ├── Progress_tts
+│   │    └── TTS_Create.py
+│   ├── DZM.ipynb
+│   ├── DZM_chatbot.ipynb
+│   ├── DZM_chatbot_v02.ipynb
+│   └── module_all.ipynb
+└── website
+   ├── audios (differential dropout modules)
+   │   ├── Before
+   │   └── Progress   
+   ├── images
+   ├── js
+   │   ├── home.js
+   │   ├── login.js
+   │   ├── main.js
+   │   ├── mypage.js
+   │   └── signup.js
+   └── templates
+       ├── chatbot.html
+       ├── home.html
+       ├── login.html
+       ├── main.html
+       ├── mypage.html
+       └── signup.html
 
-  - 기초 수업을 통해 함양한 AI 이론 및 프로젝트 수행 능력을 바탕으로 일상에서 유용한 경험을 제공해줄 수 있는 서비스를 위한 AI 개발을 목표로 함
-  - 규모 있는 프로젝트 경험 및 협업 능력 제고를 위해 팀 프로젝트를 진행함
-  - 팀원 각자의 특기 및 관심에 따라 AI 분야 현업과 유사한 R&R(Role and Responsibilities)을 수행함
+```
 
-# Goals
-  - 사용자에게 유의미한 AI 경험을 제공하기 위해 참여학생들은 AI 서비스 기획 및 AI 개발 (데이터 수집, 전처리, 모델 생성, 결과 해석) 및 평가에 이르는 전 과정의 수행 및 체화
-  - 프로젝트 결과물이 취업을 위한 프로폴리오가 될 수 있도록 AI 기술 논문(초안) 및 서비스 기획서(PRD)를 도출함. 추후 기술 특허 및 디자인 어워드에 제출할 수 있도록 함.
 
 # Task List
 
